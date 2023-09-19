@@ -1,4 +1,4 @@
-package academy.roadjava.introducao;
+package com.roadjava.introducao;
 
 public class Aula02TiposPrimitivos {
 
