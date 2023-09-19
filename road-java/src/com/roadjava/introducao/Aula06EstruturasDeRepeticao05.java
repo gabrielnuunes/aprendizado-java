@@ -1,6 +1,6 @@
 package com.roadjava.introducao;
 
-public class Aula06EstruturaDeRepeticao05 {
+public class Aula06EstruturasDeRepeticao05 {
 
     public static void main(String[] args) {
 
