@@ -1,4 +1,4 @@
-package com.roadjava.javacore.introducaoclasses.dominio;
+package com.roadjava.javacore.Aintroducaoclasses.dominio;
 
 public class Estudante {
 
