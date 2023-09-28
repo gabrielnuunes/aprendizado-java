@@ -7,8 +7,11 @@ public class SerieTest01 {
     public static void main(String[] args) {
         Serie serie = new Serie();
 
-        for ( int episodio: serie.getEpisodios()) {
-            System.out.println(episodio + " ");
-        }
+//        for ( int episodio: serie.getEpisodios()) {
+//            System.out.println(episodio + " ");
+//        }
+
+        Serie serie1 = new Serie();
+        Serie serie2 = new Serie();
     }
 }
